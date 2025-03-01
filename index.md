@@ -4,3 +4,6 @@
 ```javascript
 let age = 71;
 ```
+- [x] create a Chat App
+- [ ] create user authentication
+- [ ] create database
